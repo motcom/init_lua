@@ -1,0 +1,8 @@
+{
+  "diagnostic.warningSign":">>",
+  "suggest.defaultSortMethod": "none",
+  "snippets.ultisnips.pythonPrompt": false,
+  "sumneko-lua.enableNvimLuaDev": true"
+}
+
+

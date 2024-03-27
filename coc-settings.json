@@ -1,8 +1,8 @@
 {
-  "diagnostic.warningSign":">>",
-  "suggest.defaultSortMethod": "none",
-  "snippets.ultisnips.pythonPrompt": false,
-  "sumneko-lua.enableNvimLuaDev": true"
+   "diagnostic.warningSign": ">>",
+   "suggest.defaultSortMethod": "none",
+   "sumneko-lua.enableNvimLuaDev": true,
+   "rust-analyzer.inlayHints.typeHints.enable": true,
+   "rust-analyzer.inlayHints.bindingModeHints.enable": true,
+   "rust-analyzer.diagnostics.enable": false
 }
-
-
